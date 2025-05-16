@@ -1,7 +1,8 @@
 # chatbot
-bu kooda amacımız chat bot yapmak ve discord boyuyla uyarlamak 
+bu kooda amacımız chatbot yapmak ve bilgisayar kontrolleri vermek
 
 # kütüphaneler 
 
-# yapılıcaklar 
+## yapılıcaklar 
+ 
 
